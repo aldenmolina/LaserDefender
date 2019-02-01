@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5228053457381356429}
   - component: {fileID: 8829347728666561465}
   - component: {fileID: 3997118162612351347}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Player Laser 01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -131,3 +131,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d1c372d60e42ba04c9488bdaab53f710, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damage: 100
